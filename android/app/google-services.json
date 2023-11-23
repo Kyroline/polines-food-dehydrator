@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "407491350626",
+    "firebase_url": "https://esiot2023-571fc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esiot2023-571fc",
+    "storage_bucket": "esiot2023-571fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407491350626:android:80a95fe61abe3f4c3a813b",
+        "android_client_info": {
+          "package_name": "com.fdd_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_rCiRvmE0CL2-ahYuxiedDlddZiYOyKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407491350626:android:767c99b3e07a44633a813b",
+        "android_client_info": {
+          "package_name": "com.iotfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_rCiRvmE0CL2-ahYuxiedDlddZiYOyKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407491350626:android:3dc295e59537653f3a813b",
+        "android_client_info": {
+          "package_name": "com.kyeserreich.iotfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_rCiRvmE0CL2-ahYuxiedDlddZiYOyKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
